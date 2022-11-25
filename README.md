@@ -1,6 +1,6 @@
 # Tarla Gider Hesaplama
 
-Uygulama bir istek üzerine hızlıca geliştirildi internet bağlantısının çok yeterli olmadığı bir yerde yerel veri  tabanı üzerinde kayıtların tutulduğu, maliyet detaylarının listelendiği basit bir otomasyon.
+Uygulama bir istek üzerine hızlıca geliştirildi internet bağlantısının çok yeterli olmadığı bir yerde yerel veri  tabanı üzerinde kayıtların tutulduğu, maliyet detaylarının listelendiği basit bir otomasyon. EFCore ve SQlite kullanılarak geliştirildi
 
 ### Uygulamanın İşlevleri
 
