@@ -7,7 +7,7 @@ Uygulama bir istek üzerine hızlıca geliştirildi internet bağlantısının �
 1. Detaylı maliyet görüntüleme
 2. Tarlalar üzerinde harcamalar ve diğer bilgilerin ekleme-silme-güncelleme işlemleri
 3. Tarla başına yapılan maliyetlerin açık bir şekilde yazdırılması  **pdf şeklinde**
-4. Veri tabanının maile yedeklenmesi. 
+4. **Veri tabanının maile yedeklenmesi.** 
 
 
 
